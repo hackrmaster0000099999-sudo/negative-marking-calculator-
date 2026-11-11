@@ -1,0 +1,1037 @@
+PRODUCT REQUIREMENTS DOCUMENT (PRD)
+
+Negative Marking Calculator  SEO Landing Page
+
+1. Project Overview
+
+Project Name
+
+Negative Marking Calculator
+
+Project Type
+
+SEO-focused Content Website / Landing Page
+
+Primary Objective
+
+Develop a highly optimized, content-rich Hindi-language website targeting Indian students, competitive exam aspirants, and job seekers who search for information about negative marking systems in examinations.
+
+This website will NOT contain an actual working negative marking calculator.
+
+Instead, it will serve as an informative SEO landing page that educates visitors about negative marking, its calculation methods, formulas, examples, examination marking schemes, and related topics.
+
+The website's primary conversion goal is to redirect visitors to the actual Negative Marking Calculator hosted on GoUtilix.
+
+Main Calculator URL
+
+https://goutilix.com/negative-marking-calculator
+
+Target Country
+
+India
+
+Target Language
+
+Hindi (हिन्दी)
+
+Development Technology
+
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Repository
+- GitHub Pages
+
+Hosting
+
+GitHub Pages using a free GitHub subdomain.
+
+Example:
+https://username.github.io/negative-marking-calculator-guide/
+
+The final deployment URL must be configurable.
+
+---
+
+2. Project Goals
+
+The website must achieve the following goals:
+
+1. Rank on Google India for relevant Hindi and English search queries related to negative marking calculators.
+2. Attract organic traffic from Indian students and competitive examination candidates.
+3. Provide comprehensive, accurate, and useful educational content.
+4. Explain negative marking calculations with simple examples.
+5. Build topical relevance around negative marking and examination scoring systems.
+6. Redirect interested visitors to the actual GoUtilix calculator.
+7. Provide a professional, trustworthy, mobile-friendly user experience.
+8. Maintain a clean and SEO-friendly website architecture.
+9. Get indexed properly by Google Search.
+10. Require minimal maintenance after deployment.
+
+The website should be designed as a genuine educational resource rather than a thin affiliate-style landing page.
+
+---
+
+3. Important Functional Scope
+
+This is a CONTENT-ONLY SEO LANDING PAGE.
+
+Do not develop a working calculator inside this project.
+
+Do not add:
+
+- Calculator input fields
+- Number input forms
+- Calculate buttons
+- Interactive scoring tools
+- Negative marking calculation widgets
+- Login or registration
+- User accounts
+- User dashboards
+- Backend APIs
+- Database integration
+- Payment functionality
+
+The actual calculator is already available on the external GoUtilix website.
+
+The only primary interactive functionality of this website must be a prominent CTA button that redirects visitors to:
+
+https://goutilix.com/negative-marking-calculator
+
+All educational explanations, mathematical formulas, examples, tables, and informational sections must be displayed directly on this website.
+
+---
+
+4. Language Requirements
+
+The entire website must be written in natural, grammatically correct Hindi.
+
+Mandatory Requirements
+
+- All headings must be in Hindi.
+- All paragraphs must be in Hindi.
+- All navigation labels must be in Hindi.
+- All buttons must be in Hindi.
+- All FAQs must be in Hindi.
+- All legal pages must be in Hindi.
+- All SEO titles and meta descriptions must be written in Hindi.
+- All image alt attributes must be in Hindi where appropriate.
+
+Use commonly understood Hindi vocabulary suitable for Indian students.
+
+However, important English technical keywords may appear naturally within Hindi content when necessary.
+
+Examples:
+
+- नेगेटिव मार्किंग
+- नेगेटिव मार्किंग कैलकुलेटर
+- सही उत्तर (Correct Answer)
+- गलत उत्तर (Wrong Answer)
+- कुल अंक (Total Marks)
+- सटीकता (Accuracy)
+- प्रयास किए गए प्रश्न (Attempted Questions)
+- अनुत्तरित प्रश्न (Unattempted Questions)
+
+Avoid unnatural translations and keyword stuffing.
+
+The website must declare:
+
+<html lang="hi">Use Unicode Hindi text throughout the project.
+
+---
+
+5. Website Design Requirements
+
+Design Direction
+
+Create a modern, professional, minimal, educational website.
+
+The design should communicate:
+
+- Trustworthiness
+- Educational credibility
+- Simplicity
+- Clarity
+- Professionalism
+
+Visual Style
+
+- Clean white or very light background.
+- Professional dark typography.
+- Subtle blue or indigo accent color.
+- Comfortable content spacing.
+- Well-designed cards.
+- Readable mathematical formulas.
+- Attractive tables.
+- Clear section separation.
+- Consistent typography.
+- Responsive layout.
+
+Avoid:
+
+- Excessive gradients.
+- Unnecessary animations.
+- Overloaded UI.
+- Excessive decorative elements.
+- Distracting advertisements.
+- Fake statistics.
+- Fake testimonials.
+- Unnecessary popups.
+
+Responsive Design
+
+The website must work perfectly on:
+
+- Android smartphones.
+- iPhones.
+- Tablets.
+- Laptops.
+- Desktop computers.
+
+Mobile-first design is mandatory because the target audience primarily includes mobile users.
+
+---
+
+6. Website Structure and Pages
+
+Create the following pages.
+
+6.1 Homepage
+
+URL:
+/
+
+The homepage is the main SEO landing page.
+
+It must contain comprehensive Hindi content covering the complete topic of negative marking.
+
+The homepage should be long, informative, properly structured, and useful to visitors.
+
+Recommended content structure:
+
+Section 1: Hero Section
+
+Main Heading:
+
+नेगेटिव मार्किंग कैलकुलेटर – परीक्षा में अपने सही अंक जानें
+
+Supporting Description:
+
+क्या आप प्रतियोगी परीक्षाओं की तैयारी कर रहे हैं? नेगेटिव मार्किंग के कारण आपके कुल अंक कितने कम हो सकते हैं, इसे समझें। नेगेटिव मार्किंग की गणना, फॉर्मूला और उदाहरणों की पूरी जानकारी यहाँ प्राप्त करें।
+
+Primary CTA Button:
+
+अभी नेगेटिव मार्किंग कैलकुलेटर इस्तेमाल करें
+
+Button Destination:
+https://goutilix.com/negative-marking-calculator
+
+This must be the most prominent button on the page.
+
+Section 2: नेगेटिव मार्किंग क्या है?
+
+Explain:
+
+- Negative marking meaning.
+- Why examination boards use negative marking.
+- How wrong answers affect final scores.
+- Difference between positive marking and negative marking.
+- Why candidates should understand the marking scheme before attempting questions.
+
+Provide simple real-world examples.
+
+Section 3: नेगेटिव मार्किंग कैसे काम करती है?
+
+Explain the complete process using:
+
+- Correct answers.
+- Incorrect answers.
+- Unattempted questions.
+- Positive marks.
+- Negative marks.
+- Final score.
+
+Include a simple numerical example.
+
+Section 4: नेगेटिव मार्किंग का फॉर्मूला
+
+Explain the mathematical formula.
+
+Score = (Correct Answers × Positive Marks) − (Wrong Answers × Negative Marks)
+
+Also explain every variable in simple Hindi.
+
+Provide at least three examples with different marking schemes.
+
+Example 1:
++1 for correct answer and -0.25 for incorrect answer.
+
+Example 2:
++2 for correct answer and -0.50 for incorrect answer.
+
+Example 3:
++4 for correct answer and -1 for incorrect answer.
+
+Show each calculation step clearly.
+
+Section 5: 1/4 नेगेटिव मार्किंग क्या होती है?
+
+Explain:
+
+- Meaning of 1/4 negative marking.
+- How much is deducted for each wrong answer.
+- Examples with 1-mark, 2-mark, and 4-mark questions.
+- How final scores are affected.
+
+Section 6: 1/3 नेगेटिव मार्किंग क्या होती है?
+
+Explain:
+
+- Meaning of 1/3 negative marking.
+- Calculation examples.
+- Differences between 1/3 and 1/4 negative marking.
+
+Section 7: 1/2 नेगेटिव मार्किंग क्या होती है?
+
+Explain:
+
+- Meaning of 1/2 negative marking.
+- Calculation examples.
+- How this marking scheme affects examination strategies.
+
+Section 8: 1/5 नेगेटिव मार्किंग क्या होती है?
+
+Explain:
+
+- Meaning of 1/5 negative marking.
+- Calculation examples.
+- Differences between other common marking ratios.
+
+Section 9: नेगेटिव मार्किंग के उदाहरण
+
+Create a detailed example table.
+
+Columns:
+
+- सही उत्तर
+- गलत उत्तर
+- छोड़े गए प्रश्न
+- सकारात्मक अंक
+- नकारात्मक अंक
+- अंतिम स्कोर
+
+Include multiple realistic examples.
+
+Ensure that all mathematical calculations are correct.
+
+Section 10: Accuracy क्या होती है?
+
+Explain:
+
+- Meaning of examination accuracy.
+- How accuracy is calculated.
+- Difference between accuracy and score percentage.
+
+Formula:
+
+Accuracy = (Correct Answers / Attempted Questions) × 100
+
+Provide examples.
+
+Section 11: कितने प्रश्न Attempt करने चाहिए?
+
+Discuss:
+
+- Attempting questions strategically.
+- Avoiding random guessing.
+- Understanding the negative marking ratio.
+- Making informed decisions.
+- Importance of accuracy.
+
+Do not provide misleading universal recommendations.
+
+Explain that optimal decisions depend on the marking scheme and the candidate's probability of answering correctly.
+
+Section 12: प्रतियोगी परीक्षाओं में नेगेटिव मार्किंग
+
+Provide informative subsections covering major Indian examinations:
+
+- UPSC
+- SSC CGL
+- SSC CHSL
+- SSC GD
+- RRB NTPC
+- RRB Group D
+- NEET UG
+- JEE Main
+- Banking Exams
+- IBPS PO
+- IBPS Clerk
+- SBI PO
+- SBI Clerk
+- State PSC Examinations
+
+IMPORTANT:
+
+Do not assume that every examination has the same negative marking scheme.
+
+Marking schemes can vary by examination, paper, section, question type, and examination year.
+
+Do not publish unverified examination-specific marks or penalties.
+
+Whenever exact information is included, ensure that it is checked against the official examination notification or information bulletin.
+
+Mention that candidates should always verify the latest official notification.
+
+Section 13: नेगेटिव मार्किंग से बचने के उपयोगी सुझाव
+
+Provide practical educational tips:
+
+- Read instructions carefully.
+- Understand the marking scheme.
+- Avoid blind guessing.
+- Improve subject knowledge.
+- Practice mock tests.
+- Analyze incorrect answers.
+- Maintain accuracy.
+- Manage examination time.
+- Identify strong and weak topics.
+
+Section 14: नेगेटिव मार्किंग कैलकुलेटर का उपयोग क्यों करें?
+
+Explain the benefits of using an online calculator.
+
+Mention:
+
+- Fast calculation.
+- Reduced manual calculation errors.
+- Understanding final marks.
+- Comparing different marking schemes.
+- Analyzing mock test results.
+- Saving time.
+
+Do not imply that this landing page itself performs calculations.
+
+Section 15: CTA Section
+
+Heading:
+
+अपना वास्तविक परीक्षा स्कोर जानने के लिए तैयार हैं?
+
+Description:
+
+अब मैन्युअल गणना करने की जरूरत नहीं। हमारे ऑनलाइन नेगेटिव मार्किंग कैलकुलेटर का उपयोग करें और कुछ ही सेकंड में अपने परीक्षा के अंक जानें।
+
+Primary CTA:
+
+नेगेटिव मार्किंग कैलकुलेटर खोलें
+
+Destination:
+https://goutilix.com/negative-marking-calculator
+
+Section 16: Frequently Asked Questions
+
+Create a detailed FAQ section with at least 12–15 useful questions.
+
+Suggested questions:
+
+1. नेगेटिव मार्किंग क्या होती है?
+2. नेगेटिव मार्किंग कैलकुलेटर क्या है?
+3. 1/4 नेगेटिव मार्किंग का मतलब क्या है?
+4. 1/3 नेगेटिव मार्किंग कैसे काम करती है?
+5. 1/2 नेगेटिव मार्किंग में कितने अंक कटते हैं?
+6. नेगेटिव मार्किंग का फॉर्मूला क्या है?
+7. गलत उत्तर देने पर कितने अंक कटते हैं?
+8. खाली छोड़े गए प्रश्नों पर अंक कटते हैं क्या?
+9. Accuracy कैसे निकाली जाती है?
+10. क्या नेगेटिव मार्किंग में स्कोर शून्य से कम हो सकता है?
+11. क्या सभी प्रतियोगी परीक्षाओं में नेगेटिव मार्किंग होती है?
+12. UPSC में नेगेटिव मार्किंग कैसे होती है?
+13. SSC में नेगेटिव मार्किंग कितनी होती है?
+14. NEET में नेगेटिव मार्किंग कैसे कैलकुलेट करें?
+15. क्या बिना नेगेटिव मार्किंग वाली परीक्षा भी होती है?
+
+Each answer should be informative, accurate, and written in natural Hindi.
+
+Use accordion-style presentation if appropriate.
+
+---
+
+7. Additional Informational Pages
+
+Apart from the homepage, create the following dedicated pages.
+
+7.1 About Us
+
+URL:
+/about-us/
+
+Explain:
+
+- Purpose of the website.
+- Educational mission.
+- Target audience.
+- Commitment to accurate educational information.
+- Relationship between this information website and the external GoUtilix calculator.
+
+Do not invent a company history, team members, physical office, or credentials.
+
+7.2 Contact Us
+
+URL:
+/contact-us/
+
+Create a simple contact information page.
+
+Do not invent:
+
+- Email addresses.
+- Phone numbers.
+- Physical addresses.
+
+Use configurable placeholders until real contact information is provided.
+
+7.3 Privacy Policy
+
+URL:
+/privacy-policy/
+
+Write a complete Hindi privacy policy.
+
+Cover:
+
+- Information collection.
+- Cookies.
+- Website analytics, if implemented.
+- Third-party services.
+- External website links.
+- Data protection.
+- User rights.
+- Contact information.
+
+Do not claim that the website collects or processes data unless the relevant functionality is actually implemented.
+
+7.4 Terms and Conditions
+
+URL:
+/terms-and-conditions/
+
+Include:
+
+- Website usage terms.
+- Educational information disclaimer.
+- Accuracy limitations.
+- External links.
+- Intellectual property.
+- Limitation of liability.
+- Changes to terms.
+
+7.5 Disclaimer
+
+URL:
+/disclaimer/
+
+Explain:
+
+- Educational purpose of the content.
+- No official affiliation with UPSC, SSC, NTA, Railway Recruitment Boards, IBPS, SBI, or other examination authorities.
+- Examination marking schemes can change.
+- Users should verify official notifications.
+- The website does not guarantee examination results or ranks.
+- External calculator links lead to a separate website.
+
+All legal pages must be written in natural Hindi.
+
+---
+
+8. CTA Button Requirements
+
+This is the most important functional component of the entire website.
+
+There must be one primary CTA destination throughout the website.
+
+Button URL:
+
+https://goutilix.com/negative-marking-calculator
+
+Recommended button text:
+
+- अभी कैलकुलेटर इस्तेमाल करें
+- नेगेटिव मार्किंग कैलकुलेटर खोलें
+- अपना स्कोर कैलकुलेट करें
+
+Use a consistent primary CTA design.
+
+CTA Placement
+
+Place the CTA:
+
+1. In the homepage hero section.
+2. After the explanation of the calculation formula.
+3. After the marking ratio examples.
+4. After the examination-specific information.
+5. In the final CTA section.
+
+These are repeated instances of the same primary CTA, not different actions.
+
+All CTA buttons must lead to the exact GoUtilix URL.
+
+Open the destination in a new tab using target="_blank" and rel="noopener noreferrer".
+
+Do not add any other competing tool links or calculator buttons.
+
+Legal navigation and ordinary internal page navigation are permitted.
+
+---
+
+9. SEO Requirements
+
+SEO is one of the highest priorities of this project.
+
+The website must be developed with Google Search optimization as a core requirement.
+
+9.1 Primary Keywords
+
+Naturally target the following keywords:
+
+- negative marking calculator
+- negative marking calculator in hindi
+- नेगेटिव मार्किंग कैलकुलेटर
+- नेगेटिव मार्किंग कैलकुलेटर हिंदी
+- negative marking formula
+- negative marking calculation
+- 1/4 negative marking calculator
+- 1/3 negative marking calculator
+- 1/2 negative marking calculator
+- negative marking kaise calculate kare
+- negative marking kya hota hai
+- परीक्षा में नेगेटिव मार्किंग कैसे निकालें
+- negative marks kaise nikale
+- exam score calculation
+- accuracy calculator exam
+
+These keywords should be integrated naturally into the Hindi content.
+
+Do not force exact-match keywords into every heading.
+
+9.2 Meta Tags
+
+Every page must have:
+
+- Unique SEO title.
+- Unique meta description.
+- Canonical URL.
+- Proper robots meta tag.
+- Appropriate Open Graph metadata.
+- Twitter Card metadata.
+
+9.3 Heading Structure
+
+Follow a proper heading hierarchy:
+
+- One H1 per page.
+- H2 for major sections.
+- H3 for subsections.
+- H4 only when necessary.
+
+Do not use headings merely for visual styling.
+
+9.4 Structured Data
+
+Implement valid structured data where appropriate:
+
+- Organization
+- WebSite
+- WebPage
+- BreadcrumbList
+- Article (only if the content genuinely qualifies as an article)
+- FAQPage only when eligible under current Google guidelines.
+
+Do not add misleading schema or fake ratings.
+
+9.5 Internal Linking
+
+Create contextual internal links between:
+
+- Homepage.
+- About Us.
+- Contact Us.
+- Privacy Policy.
+- Terms and Conditions.
+- Disclaimer.
+
+Use descriptive anchor text.
+
+9.6 Image SEO
+
+Use relevant, optimized images only when they improve understanding.
+
+Requirements:
+
+- Descriptive Hindi alt text.
+- Compressed image formats.
+- WebP or AVIF where practical.
+- Proper image dimensions.
+- Lazy loading for below-the-fold images.
+
+Avoid unnecessary stock images.
+
+9.7 Content Quality
+
+Content must be:
+
+- Original.
+- Detailed.
+- Factually accurate.
+- Helpful.
+- Naturally written.
+- Free from keyword stuffing.
+- Free from duplicated paragraphs.
+- Easy for Indian students to understand.
+
+Do not generate meaningless paragraphs just to increase word count.
+
+---
+
+10. Technical SEO and Google Indexing
+
+Important Technical Requirement
+
+The website will be hosted on GitHub Pages.
+
+Because this is a React application, ensure that the website is search-engine-friendly.
+
+Use Vite with React and implement static prerendering or pre-rendered HTML for all important routes.
+
+Do not rely exclusively on client-side JavaScript rendering for SEO-critical content.
+
+Recommended technical setup:
+
+- React.js
+- Vite
+- React Router
+- Static prerendering solution compatible with Vite
+- React Helmet Async or equivalent metadata management
+- Responsive CSS
+- Semantic HTML
+
+The final HTML delivered to crawlers must contain meaningful page content, titles, descriptions, and canonical metadata.
+
+Required SEO Files
+
+Generate:
+
+1. robots.txt
+2. sitemap.xml
+3. favicon
+4. Open Graph image
+5. Appropriate canonical tags
+
+The sitemap must contain all public website pages.
+
+The robots.txt file must not accidentally block Googlebot.
+
+GitHub Pages Requirements
+
+- Configure the correct Vite base path.
+- Ensure internal routes work after deployment.
+- Prevent 404 errors on page refresh.
+- Configure SPA fallback if required.
+- Prefer prerendered routes for SEO.
+- Use relative asset paths correctly.
+- Ensure the deployed website works under the GitHub Pages subdirectory.
+
+The final website must be deployable directly from a GitHub repository.
+
+---
+
+11. Performance Requirements
+
+Performance is important for SEO and user experience.
+
+Optimize:
+
+- Initial page loading.
+- JavaScript bundle size.
+- CSS delivery.
+- Font loading.
+- Image sizes.
+- Layout stability.
+- Mobile responsiveness.
+
+Target good Core Web Vitals.
+
+Avoid:
+
+- Heavy UI libraries.
+- Unnecessary JavaScript.
+- Excessive animations.
+- Large unoptimized images.
+- Unnecessary external scripts.
+
+Aim for strong Lighthouse performance, accessibility, SEO, and best practices scores.
+
+---
+
+12. User Interface Components
+
+Develop reusable React components.
+
+Recommended components:
+
+- Header
+- Navigation
+- HeroSection
+- PrimaryCTAButton
+- ContentSection
+- FormulaBlock
+- ExampleCard
+- ComparisonTable
+- ExamInformationSection
+- FAQAccordion
+- FinalCTASection
+- Footer
+- LegalPageLayout
+
+Use reusable components to maintain consistent design.
+
+The primary CTA must be a reusable component so its destination can be updated from one centralized configuration.
+
+---
+
+13. Suggested Project Folder Structure
+
+Use a clean and maintainable folder structure.
+
+negative-marking-landing/
+│
+├── public/
+│   ├── favicon.ico
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── og-image.webp
+│
+├── src/
+│   ├── assets/
+│   │
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   ├── CTAButton.jsx
+│   │   ├── HeroSection.jsx
+│   │   ├── ContentSection.jsx
+│   │   ├── FormulaBlock.jsx
+│   │   ├── FAQAccordion.jsx
+│   │   └── ComparisonTable.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── PrivacyPolicy.jsx
+│   │   ├── Terms.jsx
+│   │   └── Disclaimer.jsx
+│   │
+│   ├── styles/
+│   │   └── global.css
+│   │
+│   ├── data/
+│   │   └── content.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── README.md
+└── .gitignore
+
+You may improve this structure when technically necessary.
+
+---
+
+14. Content Accuracy and Editorial Guidelines
+
+This section is extremely important.
+
+The website must provide mathematically accurate information.
+
+Calculation Formula
+
+For a standard fixed-marking examination:
+
+Final Score = (Correct Answers × Marks per Correct Answer) − (Wrong Answers × Penalty per Wrong Answer)
+
+Accuracy Formula
+
+Accuracy = (Correct Answers / Attempted Questions) × 100
+
+If no questions were attempted, accuracy should be described as undefined rather than dividing by zero.
+
+Break-even Accuracy
+
+For an examination where every attempted question has the same positive mark and the same negative penalty:
+
+Break-even Probability = Penalty / (Positive Marks + Penalty)
+
+Express the result as a percentage.
+
+Do not confuse break-even probability with accuracy achieved in a completed examination.
+
+Additional Rules
+
+- Check every mathematical example before publishing.
+- Do not mix different negative marking ratios.
+- Clearly distinguish marks from percentages.
+- Do not assume unanswered questions receive penalties.
+- Explain assumptions whenever necessary.
+- Do not publish outdated exam marking schemes as current facts.
+
+---
+
+15. Google Search Console and Indexing Preparation
+
+Prepare the project for Google Search Console.
+
+Requirements:
+
+- XML sitemap.
+- Valid canonical URLs.
+- Crawlable navigation.
+- Indexable main content.
+- Unique page titles.
+- Unique meta descriptions.
+- No accidental noindex directives.
+- No blocked essential resources.
+- Proper HTTP status codes.
+
+Do not claim that Google indexing or ranking is guaranteed.
+
+The website should be technically prepared for submission to Google Search Console after deployment.
+
+---
+
+16. Monetization and Advertisement Readiness
+
+Do not implement advertisements by default.
+
+However, keep the layout flexible enough to support future advertising integration.
+
+Do not place advertisements in a way that:
+
+- Interrupts reading.
+- Covers the CTA button.
+- Creates accidental clicks.
+- Damages mobile usability.
+- Makes the website look untrustworthy.
+
+No advertising network integration is required in the initial version.
+
+---
+
+17. Development Instructions for Google AI Studio
+
+Follow these instructions strictly:
+
+1. Build the complete project using React and Vite.
+2. Use clean, modular, reusable React components.
+3. All user-facing content must be in Hindi.
+4. Do not create a working calculator.
+5. Do not add calculator forms or input fields.
+6. Create a content-rich SEO landing page.
+7. Implement all required informational and legal pages.
+8. Use the exact external GoUtilix calculator URL for every primary CTA.
+9. Make the design modern, attractive, and mobile-first.
+10. Implement proper SEO metadata for every page.
+11. Implement prerendering for SEO-critical pages.
+12. Ensure compatibility with GitHub Pages.
+13. Generate the required SEO files.
+14. Ensure mathematical accuracy.
+15. Do not use fake examination statistics, fake testimonials, or fabricated official information.
+16. Do not use placeholder paragraphs such as Lorem Ipsum.
+17. Write meaningful, comprehensive Hindi content.
+18. Ensure that every navigation link and CTA works correctly.
+19. Keep the website lightweight and fast.
+20. Provide a complete, deployable source code project.
+
+---
+
+18. Final Acceptance Criteria
+
+The project will be considered complete only when all the following requirements are satisfied.
+
+Website
+
+- [ ] Homepage created.
+- [ ] Complete Hindi content implemented.
+- [ ] Responsive design implemented.
+- [ ] Professional UI completed.
+- [ ] Proper navigation implemented.
+
+Content
+
+- [ ] Detailed negative marking explanation.
+- [ ] Mathematical formulas.
+- [ ] Multiple calculation examples.
+- [ ] Negative marking ratio explanations.
+- [ ] Indian examination information.
+- [ ] Practical examination tips.
+- [ ] At least 12–15 FAQs.
+
+CTA
+
+- [ ] One consistent primary CTA destination.
+- [ ] CTA prominently displayed.
+- [ ] Every CTA links to the exact GoUtilix URL.
+- [ ] External navigation works correctly.
+
+Legal Pages
+
+- [ ] About Us.
+- [ ] Contact Us.
+- [ ] Privacy Policy.
+- [ ] Terms and Conditions.
+- [ ] Disclaimer.
+
+SEO
+
+- [ ] Unique title and meta description for every page.
+- [ ] Canonical URLs.
+- [ ] Correct heading hierarchy.
+- [ ] Structured data where appropriate.
+- [ ] robots.txt.
+- [ ] sitemap.xml.
+- [ ] Hindi language declaration.
+- [ ] Prerendered SEO content.
+- [ ] Internal linking.
+
+Deployment
+
+- [ ] React + Vite.
+- [ ] GitHub-ready source code.
+- [ ] GitHub Pages compatibility.
+- [ ] Correct deployment base path.
+- [ ] All routes accessible.
+- [ ] No broken links.
+- [ ] No console errors.
+
+---
+
+FINAL PROJECT VISION
+
+The final product must look and behave like a professional Hindi educational information website dedicated to negative marking.
+
+It must not look like a simple one-screen landing page or a calculator clone.
+
+The homepage should contain comprehensive, well-organized, genuinely useful educational information that can satisfy the search intent of Indian students.
+
+Visitors should be able to understand negative marking, learn its calculation methods, explore different marking ratios, read examination-related information, and find answers to common questions.
+
+At appropriate points throughout the content, visitors should see a clear and attractive button that takes them to the actual GoUtilix Negative Marking Calculator.
+
+The primary business objective is organic Google traffic acquisition followed by referral traffic to the main calculator.
+
+Build the complete, production-ready project according to these requirements.

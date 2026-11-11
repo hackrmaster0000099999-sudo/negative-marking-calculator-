@@ -1,0 +1,5 @@
+# robots.txt for Negative Marking Calculator Guide
+User-agent: *
+Allow: /
+
+Sitemap: https://goutilix.com/sitemap.xml
