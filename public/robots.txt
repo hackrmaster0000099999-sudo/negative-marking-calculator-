@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goutilix.com/sitemap.xml
+Sitemap: https://negativemarkingcalculator.pages.dev/sitemap.xml

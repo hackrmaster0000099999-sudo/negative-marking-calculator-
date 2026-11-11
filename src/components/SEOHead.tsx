@@ -44,6 +44,15 @@ export const SEOHead: React.FC<SEOHeadProps> = ({ currentPath }) => {
     const ogDesc = document.querySelector('meta[property="og:description"]');
     if (ogDesc) ogDesc.setAttribute('content', description);
 
+    // Update canonical link
+    const canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (canonicalLink) {
+      canonicalLink.setAttribute(
+        'href',
+        currentPath === '/' ? `${SITE_CONFIG.canonicalUrl}/` : `${SITE_CONFIG.canonicalUrl}/#${currentPath}`
+      );
+    }
+
     // Update JSON-LD structured data script
     const scriptId = 'json-ld-schema';
     let scriptElem = document.getElementById(scriptId) as HTMLScriptElement | null;
